@@ -1,7 +1,7 @@
 <div align="center">
 
 ##  Opa👋, sou Ryan Brito Gomes
-### *Atualmente estou cursando Análise e Desenvolvimento de Sistemas*
+### *No momento estou cursando Análise e Desenvolvimento de Sistemas*
 </div>
 
 - 🔭 Atualmente estou estudando **Python, MySQL, Git e Linux**
