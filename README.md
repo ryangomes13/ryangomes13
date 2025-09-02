@@ -1,5 +1,8 @@
+<div align="center">
+
 ##  Opa👋, sou Ryan Brito Gomes
-#### *Sobre mim:*
+### *Atualmente estou cursando Análise e Desenvolvimento de Sistemas*
+</div>
 
 - 🔭 Atualmente estou estudando **Python, MySQL, Git e Linux**
 - 💬 Me pergunte sobre: **Lógica de Programação, Python e Banco de Dados**
