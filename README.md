@@ -17,5 +17,5 @@
 <br><br>
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=ryangomes13&show_icons=true&theme=dark)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=ryangomes13&show&icons=true&theme=dark)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ryangomes13&layout=compact&theme=dark)
